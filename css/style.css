@@ -145,7 +145,7 @@ margin-left: auto;
 .benefits-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+    text-align: center;
 }
 
 .section-team {
@@ -167,13 +167,18 @@ margin-left: auto;
     display: flex;
     gap: 24px;
 }
+.div-item {
+    padding: 32px 0;
+
+}
 .team-item {
     background: #ffffff;
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 .personal-title {
-    
+    margin-bottom: 8px;
+    text-align: center;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
