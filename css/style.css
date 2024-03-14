@@ -125,6 +125,13 @@ margin-left: auto;
 
 .benefits {
     padding: 120px 0;
+
+}
+.benefits-menu {
+    display: flex;
+    gap: 24px;
+}
+.benefits-item {
     
 }
 .benefits-title {
