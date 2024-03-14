@@ -123,7 +123,10 @@ margin-left: auto;
 }
 
 
-
+.benefits {
+    padding: 120px 0;
+    
+}
 .benefits-title {
     font-weight: 500;
     font-size: 20px;
